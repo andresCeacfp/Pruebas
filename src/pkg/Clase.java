@@ -7,5 +7,6 @@ public class Clase {
 	public String param4="";
 	public String param5="";
 	public String o_param5 ="";
-	public String o_param6 ="";
+	public String o_param6 ="1";
+	public String o1_param6 ="1";
 }
